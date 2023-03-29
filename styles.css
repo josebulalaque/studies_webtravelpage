@@ -30,3 +30,11 @@
     width: 100px;
     text-align: right;
   } */
+
+  #hero {
+    height: 800px;
+    background-image: url("/images/places/ocean.jpg");
+    background-position: center;
+    background-size: cover;
+
+  }
